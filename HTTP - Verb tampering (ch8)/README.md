@@ -13,6 +13,7 @@
 - Sau 1 vài lần thử thì cũng có kết quả
 
 - Payload: 
+
 ```curl -X OPTIONS http://challenge01.root-me.org/web-serveur/ch8/
 ```
 
