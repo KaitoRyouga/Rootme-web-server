@@ -1,5 +1,7 @@
 # HTTP - Open redirect
 
+[Link](http://challenge01.root-me.org/web-serveur/ch52/)
+
 - Mở đầu trang web là 3 button `fb`, `tw`, `slack`, Click vô `fb` thử thì đi đến trang `fb.com`, khá dễ hiểu
 
 ![home](image/home.png)
