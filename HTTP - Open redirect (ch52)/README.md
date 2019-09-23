@@ -32,5 +32,8 @@ https://facebook.com&h=a023cfbf5f1c39bdf8407f28b60cd134
 
 - Giờ thì đổi lại url và chạy thử thôi. Vấn đề bây giờ là không chỉnh bằng cách bình thường được, thôi thì qua `Burp suite` để sửa cho lẹ
 
+- Sửa `https://facebook.com` thành `https://www.youtube.com/`, sửa `a023cfbf5f1c39bdf8407f28b60cd134` thành `dba51bcc527ba93f7fe03868747280d5`
 
+![bu](image/bu.png)
 
+- Flag hiện ra
