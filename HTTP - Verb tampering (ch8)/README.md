@@ -14,7 +14,8 @@
 
 - Payload: 
 
-```curl -X OPTIONS http://challenge01.root-me.org/web-serveur/ch8/
+```
+curl -X OPTIONS http://challenge01.root-me.org/web-serveur/ch8/
 ```
 
 - `CURL -X OPTIONS` ở đây với `-X OPTIONS` là loại method
