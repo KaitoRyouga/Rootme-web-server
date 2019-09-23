@@ -37,3 +37,5 @@ https://facebook.com&h=a023cfbf5f1c39bdf8407f28b60cd134
 ![bu](image/bu.png)
 
 - Flag hiện ra
+
+![flag](image/fl.png)
