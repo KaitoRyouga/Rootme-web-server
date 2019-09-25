@@ -2,8 +2,6 @@
 
 [Link](http://challenge01.root-me.org/web-serveur/ch2/)
 
-- Bổ trợ kiến thức về `Requests Header` trước khi đọc bài này
-
 - Vừa vào trang web thì có đúng 1 dòng thông báo: 
 ```
 Wrong user-agent: you are not the "admin" browser!
