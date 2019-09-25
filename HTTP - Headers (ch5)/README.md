@@ -16,6 +16,8 @@ Content is not the only part of an HTTP response!
 
 - Để ý kỹ thì đoạn `Header-RootMe-Admin: none` này không có trong format chung của `HTTP response`. Chắc kèo là do người ra đề thêm vào
 
+- Đọc thêm về `HTTP Requests` và `HTTP Response` [Link](https://freetuts.net/header-request-va-header-response-670.html)
+
 - Nhưng mà bên `HTTP requests` lại không có đoạn này, thử vô `burp suite` tự thêm vô và sửa `none` thành `allow` xem sao
 
 ![allow](image/allow.png)
