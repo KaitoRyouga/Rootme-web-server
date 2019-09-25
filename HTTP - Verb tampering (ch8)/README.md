@@ -2,7 +2,11 @@
 
 [Link](http://challenge01.root-me.org/web-serveur/ch8/)
 
-- Bổ trợ kiến thức về lỗi `Verb tampering` và 1 chút CURL trước khi đọc
+- Đọc thêm vềg lỗi `Verb tampering` [Link](https://resources.infosecinstitute.com/http-verb-tempering-bypassing-web-authentication-and-authorization/#gref)
+
+- Đọc thêm 1 chút về CURL [Link](https://curl.haxx.se/docs/manual.html)
+
+- Phải nói thì đây là kỹ thuật vi diệu để vượt qua xác thực của trang web. Thường là xác thực với `javascript`
 
 ![home](image/home.png)
 
