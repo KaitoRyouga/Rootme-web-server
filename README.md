@@ -34,6 +34,6 @@
 
 [17. JSON Web Token (JWT) - Introduction](https://github.com/KaitoRyouga/Rootme/tree/master/JSON%20Web%20Token%20(JWT)%20-%20Introduction%20(ch58))
 
-[18. Directory traversal]()
+[18. Directory traversal](https://github.com/KaitoRyouga/Rootme/tree/master/Directory%20traversal%20(ch15))
 
 [19. 	File upload - Null byte]()
