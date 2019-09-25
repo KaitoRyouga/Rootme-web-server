@@ -28,7 +28,7 @@
 
 [14. File upload - Double extensions](https://github.com/KaitoRyouga/Rootme/tree/master/File%20upload%20-%20Double%20extensions%20(ch20))
 
-[15. File upload - MIME type]()
+[15. File upload - MIME type](https://github.com/KaitoRyouga/Rootme/tree/master/File%20upload%20-%20MIME%20type%20(ch21))
 
 [16. HTTP - Cookies]()
 
