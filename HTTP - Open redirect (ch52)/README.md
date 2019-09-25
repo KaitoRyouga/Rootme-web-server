@@ -22,7 +22,7 @@ Find a way to make a redirection to a domain other than those showed on the web 
 https://facebook.com&h=a023cfbf5f1c39bdf8407f28b60cd134
 ```
 
-- Đoạn `https://facebook.com` thì không có gì để bàn rồi. Quan trọng là đoạn `h=a023cfbf5f1c39bdf8407f28b60cd134`, nhìn có vẻ giống với mã `md5`, với thêm chữ `h` làm query chính nữa thì chắc kèo đây là mã `md5 hash` của `https://facebook.com`
+- Đoạn `https://facebook.com` thì không có gì để bàn rồi. Quan trọng là đoạn `h=a023cfbf5f1c39bdf8407f28b60cd134`, nhìn có vẻ giống với mã `md5`, thử decode xem mã `md5 hash` có phải là `https://facebook.com`
 
 - Thử `decode` đoạn mã `md5 hash` trên xem có phải là `https://facebook.com` không
 
