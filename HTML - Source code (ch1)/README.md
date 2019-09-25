@@ -4,7 +4,7 @@
 
 ![home](image/ch1-1.png)
 
-- Bài này chả có gì để nới, `Ctrl + U` là ra flag
+- Bài này chả có gì để nói, `Ctrl + U` là ra flag
 
 ![flag](image/ch1-2.png)
 
