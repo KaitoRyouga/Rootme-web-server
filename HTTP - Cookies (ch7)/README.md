@@ -26,5 +26,7 @@
 
 - Kết quả mĩ mãn, flag hiện ra
 
+![7](image/7.png)
+
 
  
