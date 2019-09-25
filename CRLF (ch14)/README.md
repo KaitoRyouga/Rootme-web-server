@@ -40,8 +40,11 @@ guest failed to authenticate.
 ```username: admin authenticated.%0Aguest
 ```
 
+![3](image/3.png)
+
 - Phần `failed to authenticate.` sẽ được tự động thêm vô. Kết quả ta đã có được đoạn log như ý muốn
 
 - `%0A` được biểu như dấu xuống dòng
 
-![3](image/3.png)
+![4](image/4.png)
+
