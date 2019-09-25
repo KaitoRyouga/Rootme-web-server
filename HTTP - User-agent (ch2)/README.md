@@ -11,6 +11,8 @@ Wrong user-agent: you are not the "admin" browser!
 
 - Nhìn qua thì có vẻ liên quan tới `Requests Header`
 
+- Đọc thêm về `HTTP Requests` và `HTTP Response` [Link](https://freetuts.net/header-request-va-header-response-670.html)
+
 - Thử vào `Burp suite` sửa đoạn `User-Agent` với value là `admin` xem sao
 
 ![admin](image/admin.png)
