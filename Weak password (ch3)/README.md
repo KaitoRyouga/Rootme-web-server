@@ -11,3 +11,5 @@
 - Đúng luôn, chậc chậc...
 
 - Mà với bài `Weak password` khác thì có lẽ phải dùng kỹ thuật `brute force` để dò mật khẩu
+
+- Đọc thêm về `Brute force` [Link](https://hostingviet.vn/brute-force-brute-force-attack-la-gi)
