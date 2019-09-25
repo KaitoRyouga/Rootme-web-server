@@ -6,7 +6,7 @@
 
 ![login](image/home.png)
 
-- Thử cố login nhưng không thành. Đổi link thành `index.php` để vô trang chủ nhưng vẫn bị chuyển hướng sang trang login, hm hm...
+- Thử cố login nhưng không thành. Thử load trang với đuôi `index.php` để vô trang chủ nhưng vẫn bị chuyển hướng sang trang login, hm hm...
 
 - Nếu để ý 1 chút thì khi ta load trang với đuôi `index.php` thì có vẻ nó có load trang `index.php` 1 chút rồi mới chuyển thẳng qua trang login
 
