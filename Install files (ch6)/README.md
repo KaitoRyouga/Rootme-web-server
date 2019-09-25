@@ -18,8 +18,12 @@
 
 - Suy nghĩ 1 hồi nhưng vẫn khá vô vọng, cho thử vô tool `dirsearch` xem có quét được gì không
 
-![5](image/5.png)
+![6](image/6.png)
 
-- Quét được đuôi `/install`, vào thử xem có gì thì thấy có 1 file `install.php`, vô xem thì flag xuất hiện
+- Quét được đuôi `/install`, vào thử xem có gì thì thấy có 1 file `install.php`
 
 ![4](image/4.png)
+
+- Vô file `install.php` xem thì flag xuất hiện
+
+![5](image/5.png)
