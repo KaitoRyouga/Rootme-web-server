@@ -24,7 +24,7 @@
 
 ![6](image/6.png)
 
-- Kết quả mĩ mãn, flag hiện ra
+- Kết quả mỹ mãn, flag hiện ra
 
 ![7](image/7.png)
 
