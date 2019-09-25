@@ -30,7 +30,7 @@
 
 [15. File upload - MIME type](https://github.com/KaitoRyouga/Rootme/tree/master/File%20upload%20-%20MIME%20type%20(ch21))
 
-[16. HTTP - Cookies]()
+[16. HTTP - Cookies](https://github.com/KaitoRyouga/Rootme/tree/master/HTTP%20-%20Cookies%20(ch7))
 
 [17. JSON Web Token (JWT) - Introduction]()
 
