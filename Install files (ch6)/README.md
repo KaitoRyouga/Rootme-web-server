@@ -16,8 +16,10 @@
 
 - Cứ như 1 vòng lặp, thử vài cái như `phpBB` các kiểu mà hint cho cũng vô dụng...
 
-- Để ý lại cái đề bài là `Install files`, thử với đuôi `/install` xem sao
+- Suy nghĩ 1 hồi nhưng vẫn khá vô vọng, cho thử vô tool `dirsearch` xem có quét được gì không
+
+![5](image/5.png)
+
+- Quét được đuôi `/install`, vào thử xem có gì thì thấy có 1 file `install.php`, vô xem thì flag xuất hiện
 
 ![4](image/4.png)
-
-- Bất ngờ thực sự...
