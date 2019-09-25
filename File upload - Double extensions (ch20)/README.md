@@ -37,7 +37,7 @@
 
 ![6](image/6.png)
 
-- Vấn đề là bây giờ có thể **injection** câu lệnh vào server thông qua file `backdoor.php.png` mới gửi lên được không. Thư với lệnh đơn giản xem nào
+- Vấn đề là bây giờ có thể **injection** câu lệnh vào server thông qua file `backdoor.php.png` mới gửi lên được không. Th với lệnh đơn giản xem nào
 `?flag=id`
 
 ![7](image/7.png)
