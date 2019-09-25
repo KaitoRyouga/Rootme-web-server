@@ -32,7 +32,7 @@
 
 [16. HTTP - Cookies](https://github.com/KaitoRyouga/Rootme/tree/master/HTTP%20-%20Cookies%20(ch7))
 
-[17. JSON Web Token (JWT) - Introduction]()
+[17. JSON Web Token (JWT) - Introduction](https://github.com/KaitoRyouga/Rootme/tree/master/JSON%20Web%20Token%20(JWT)%20-%20Introduction%20(ch58))
 
 [18. Directory traversal]()
 
