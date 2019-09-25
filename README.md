@@ -36,4 +36,4 @@
 
 [18. Directory traversal](https://github.com/KaitoRyouga/Rootme/tree/master/Directory%20traversal%20(ch15))
 
-[19. 	File upload - Null byte]()
+[19. 	File upload - Null byte](https://github.com/KaitoRyouga/Rootme/tree/master/File%20upload%20-%20Null%20byte%20(ch22))
