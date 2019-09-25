@@ -10,6 +10,8 @@
 
 - Ok, hoạt động tốt. `Command injection` chỉ đơn giản là chèn thêm payload để chạy trên `ternimal` thôi
 
+- Đọc thêm về lỗi `Command injection` [Link](https://viblo.asia/p/os-command-injection-la-gi-command-injection-co-nguy-hiem-khong-can-cuc-ky-than-trong-doi-voi-cac-lenh-os-goi-tu-website-cua-ban-OeVKB3PEZkW)
+
 - Kèm theo ký tự `|`, `||`, `&`, `&&`, `;`, `$()`, ... Để được chạy thêm đoạn payload khác
 
 - Ở đây bài chỉ kiểm tra đoạn `8.8.8.8` thôi nên ta thêm đằng sau sẽ không bị chặn lại
